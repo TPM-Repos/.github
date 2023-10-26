@@ -1,0 +1,1 @@
+TPM-Repos is a collection of scripts, macros, plugins, and web templates developed by TPM's Technical Solutions Consultants. While primarily designed for internal use, some resources can be shared with customers on a case-by-case basis.
